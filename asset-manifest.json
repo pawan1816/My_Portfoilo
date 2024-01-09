@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/My_Portfoilo/static/css/main.f3ca5258.css",
-    "main.js": "/My_Portfoilo/static/js/main.4649e673.js",
+    "main.css": "/My_Portfoilo/static/css/main.c71dd7b7.css",
+    "main.js": "/My_Portfoilo/static/js/main.cb1000af.js",
+    "static/media/animation2.gif": "/My_Portfoilo/static/media/animation2.dbf5d0a1077c0e4f472a.gif",
+    "static/media/animation.gif": "/My_Portfoilo/static/media/animation.929cef5b0101e0b1038a.gif",
+    "static/media/animation3.gif": "/My_Portfoilo/static/media/animation3.62f14320046cf201ce61.gif",
     "static/media/leetcode.png": "/My_Portfoilo/static/media/leetcode.2baac66179831bfd0dbd.png",
     "static/media/ET.png": "/My_Portfoilo/static/media/ET.2bfab73a593a0750d55e.png",
-    "static/media/home-main.svg": "/My_Portfoilo/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
     "static/media/GeeksForGeeks.png": "/My_Portfoilo/static/media/GeeksForGeeks.cd649eac16d5d6eb89ca.png",
     "static/media/ST.png": "/My_Portfoilo/static/media/ST.7cf35e3ad550bb1cbad3.png",
     "static/media/WC.png": "/My_Portfoilo/static/media/WC.5fdd56ebf5061de079b8.png",
     "static/media/TMP.png": "/My_Portfoilo/static/media/TMP.1ce5434f20c282fd5902.png",
     "static/media/BGC.png": "/My_Portfoilo/static/media/BGC.06f08670214cfb188dec.png",
-    "static/media/key.jpg": "/My_Portfoilo/static/media/key.90b15db1723ccbaaed9f.jpg",
     "static/media/STKY.png": "/My_Portfoilo/static/media/STKY.3c27552bc69cd6a00231.png",
+    "static/media/Home_bg.jpg": "/My_Portfoilo/static/media/Home_bg.bcef43e154828e2ccdbc.jpg",
     "static/media/HackerRank.png": "/My_Portfoilo/static/media/HackerRank.0c7adb945a464af488b7.png",
-    "static/media/home-bg.jpg": "/My_Portfoilo/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
     "static/media/InterviewBits.png": "/My_Portfoilo/static/media/InterviewBits.cc3de8bde364488cec21.png",
-    "static/media/avatar.svg": "/My_Portfoilo/static/media/avatar.7f806e40d46fc76fbc3c4a3d71349951.svg",
     "static/media/Pawant.png": "/My_Portfoilo/static/media/Pawant.a35511f69ddb88e83751.png",
     "static/media/pre.svg": "/My_Portfoilo/static/media/pre.4410c5baaa673cc131da.svg",
     "index.html": "/My_Portfoilo/index.html",
-    "main.f3ca5258.css.map": "/My_Portfoilo/static/css/main.f3ca5258.css.map",
-    "main.4649e673.js.map": "/My_Portfoilo/static/js/main.4649e673.js.map"
+    "main.c71dd7b7.css.map": "/My_Portfoilo/static/css/main.c71dd7b7.css.map",
+    "main.cb1000af.js.map": "/My_Portfoilo/static/js/main.cb1000af.js.map"
   },
   "entrypoints": [
-    "static/css/main.f3ca5258.css",
-    "static/js/main.4649e673.js"
+    "static/css/main.c71dd7b7.css",
+    "static/js/main.cb1000af.js"
   ]
 }
