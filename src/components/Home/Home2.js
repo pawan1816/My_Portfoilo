@@ -16,39 +16,33 @@ function Home2() {
         <Row>
           <Col md={8} className="home-about-description">
             <h1 style={{ fontSize: "2.6em" }}>
-              LET ME <span className="purple"> INTRODUCE </span> MYSELF
+              A Sort Story about <span className="purple"> Me </span> and my <span className="purple"> Codoing </span> journey
             </h1>
             <p className="home-about-body">
-              From 11th standard I always curous about computer and Programming Languge,where i learn c++ at very first time 🤷‍♂️
-              <br />
-              <br />I am fluent in classics like
-              <i>
-                <b className="purple"> C++, Javascript,Java </b>
-              </i>
+              From the very begining of my 11th standard, I always curous about computer and Programming Languge,where i learn <span className="purple"> C++ </span> at very first time. That time i learned about c++ syntex,oops and basic programing.
               <br />
               <br />
-              My field of Interest's are building new &nbsp;
-              <i>
-                <b className="purple">Web Technologies and Products </b> and
-                also in areas related to{" "}
-                <b className="purple">
-                  Machine Learning.
-                </b>
-              </i>
+              After 12th SomeHow I am not able to crack the jee mains,But i never lose hope and instead to taking gap year I decidede to take admission on private collage, and that is LPU.
               <br />
               <br />
-              Whenever possible, I also tried to solve coding question on various plateform
-              and  <b className="purple">Participate</b> in 
-              <i>
-                <b className="purple">
-                  {" "}
-                  competative coding.
-                </b>
-              </i>
-              &nbsp; like
-              <i>
-                <b className="purple"> Leetcode Contast,code chef and code force</b>
-              </i>
+              After taking admission in LPU I have learn <b className="purple">Java </b>in 1st year, <b className="purple">DSA</b> in 2nd year.
+              I have also taken a course of DSA Self Placed form geeksforgeeks where i have more then <b className="purple">700+ DSA </b>question on summer term of end of 2nd year.
+              On the same time i have also taken <b className="purple">web development course and training</b> from internshala, where i score more then 70% in the final test.where i learned <b className="purple">HTML </b> , <b className="purple">CSS</b> , 
+              <b className="purple">JavaScript </b>,<b className="purple">Bootstrap</b>,<b className="purple">PHP </b> and <b className="purple">React</b>.
+              <br />
+              <br />
+               During 3rd year, 5th semester I learn <b className="purple">Data Science</b>, Because of specialization in Data Science.
+               And my Minor is <b className="purple">Cyber Security Law</b>.
+              <br />
+              <br />
+              During my 6th and 7th semester I learned <b className="purple">NLP Natural Language Processing</b>, <b className="purple">Machine Learning</b>, <b className="purple">Deep Learning</b> and <b className="purple">Big Data</b>.
+              <br />
+              <br />
+              Now I am currently coding on various plateform like leetcode,geeksforgeeks,hackerrank,etc.
+              Till Now I have solved <b className="purple">350+ DSA </b> question on leetcode and <b className="purple">750+ DSA </b>question on geeksforgeeks.
+              <br/>
+              <br/>
+              <h4>Although I am not the topper not the best But I <b className="purple">NEVER GIVE UP</b> until i achive my goal</h4>
             </p>
           </Col>
           <Col md={4} className="myAvtar">
@@ -59,7 +53,7 @@ function Home2() {
         </Row>
         <Row>
           <Col md={12} className="home-about-social">
-            <h1>FIND ME ON</h1>
+            <h1>Here is Social medial Links</h1>
             <p>
               Feel free to <span className="purple">connect </span>with me
             </p>

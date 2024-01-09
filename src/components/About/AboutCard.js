@@ -32,7 +32,7 @@ function AboutCard() {
           </ul>
 
           <p style={{ color: "rgb(155 126 172)" }}>
-            "Never Give Up..."{" "}
+          "Consistency is the fruit of the tree of success. The more you do something effectively and with a goal in mind, the better you will get at it and the more you will feel fulfilled. "{"  :- Dan O'abrin"}
           </p>
           <footer className="blockquote-footer">Pawan</footer>
         </blockquote>
