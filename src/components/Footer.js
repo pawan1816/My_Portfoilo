@@ -7,6 +7,7 @@ import {
 } from "react-icons/ai";
 import { FaLinkedinIn } from "react-icons/fa";
 
+
 function Footer() {
   let date = new Date();
   let year = date.getFullYear();
@@ -21,6 +22,7 @@ function Footer() {
         </Col>
         <Col md="4" className="footer-body">
           <ul className="footer-icons">
+            
             <li className="social-icons">
               <a
                 href="https://github.com/pawan1816"

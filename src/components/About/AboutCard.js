@@ -1,27 +1,30 @@
 import React from "react";
 import Card from "react-bootstrap/Card";
 import { ImPointRight } from "react-icons/im";
-
+import { CgMail } from "react-icons/cg";
 function AboutCard() {
   return (
     <Card className="quote-card-view">
       <Card.Body>
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
-            Hi Everyone, I am <span className="purple">Pawan Kumar Paik </span>
-            from <span className="purple"> Ranchi, India.</span>
+            This is <span className="purple">Pawan Kumar Paik </span> 
             {/* <br />
             I am currently employed as a software developer at Juspay. */}
             <br />
-            I am currently stuied in Lovely Professional university.
-             Now I am in final Year 8th sem
+            currently studying in <span className="purple">Lovely Professional university</span><br/>
+            Final Year student <span className="purple"> 8th semester</span><br/>
+            Gmail:- <span className="purple">paikpawan18@gmail.com</span><br/>
+            Phone No:- <span className="purple">+91 6203277906</span><br/>
+            Current Address:- <span className="purple">Phagwara,Punjab,India</span><br/>
+            HomeTown Address:- <span className="purple">Ranchi,Jharkhand,India</span><br/>
+            Language:- <span className="purple">Hindi,English</span><br/>
             <br />
-            <br />
-            Apart from coding, some other activities that I love to do!
+            Hobbies
           </p>
           <ul>
             <li className="about-activity">
-              <ImPointRight /> Playing Games
+              <ImPointRight /> Playing Cricket, Badminton
             </li>
             <li className="about-activity">
               <ImPointRight /> Leasoning Songs
