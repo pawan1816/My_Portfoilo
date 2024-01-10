@@ -9,7 +9,6 @@ function Type() {
           "Aspiring Software Developer",
           "Coder",
           " Aspiring React Developer",
-          // "Open Source Contributor",
         ],
         autoStart: true,
         loop: true,

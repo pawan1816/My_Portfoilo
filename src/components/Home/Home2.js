@@ -16,7 +16,7 @@ function Home2() {
         <Row>
           <Col md={8} className="home-about-description">
             <h1 style={{ fontSize: "2.6em" }}>
-              A Sort Story about <span className="purple"> Me </span> and my <span className="purple"> Codoing </span> journey
+              A Short Story about <span className="purple"> Me </span> and my <span className="purple"> Codoing </span> journey
             </h1>
             <p className="home-about-body">
               From the very begining of my 11th standard, I always curous about computer and Programming Languge,where i learn <span className="purple"> C++ </span> at very first time. That time i learned about c++ syntex,oops and basic programing.

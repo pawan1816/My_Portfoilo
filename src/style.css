@@ -8,7 +8,7 @@ html {
   --image-gradient: linear-gradient(
     to bottom left,
     rgba(7, 2, 2, 0.985),
-    rgb(5, 9, 1)
+    rgb(7, 7, 7)
   );
 
   --imp-text-color: #cc0b0b;
@@ -32,7 +32,7 @@ button:focus {
   width: 100%;
   height: 100%;
   z-index: 999999;
-  background-color: #050108;
+  background-color: #030303;
   background-image: url(./Assets/pre.svg);
   background-repeat: no-repeat;
   background-position: center;
@@ -57,18 +57,18 @@ button:focus {
 
 /* Track */
 ::-webkit-scrollbar-track {
-  background: #2d1950;
+  background: #05000c;
 }
 
 /* Handle */
 ::-webkit-scrollbar-thumb {
-  background: #0b0b0bf5;
+  background: #090909f5;
   border-radius: 12px;
 }
 
 /* Handle on hover */
 ::-webkit-scrollbar-thumb:hover {
-  background: #131313e8;
+  background: #010101e8;
   border-radius: 12px;
 }
 
@@ -76,9 +76,9 @@ button:focus {
 /* Navbar Section  */
 /* --------- */
 .sticky {
-  background-color: hwb(244 0% 94%) !important;
+  background-color: hwb(240 0% 97%) !important;
   transition: all 0.3s ease-out 0s !important;
-  box-shadow: 0px 10px 10px 0px rgba(9, 5, 29, 0.171) !important;
+  box-shadow: 0px 10px 10px 0px rgba(3, 3, 3, 0.171) !important;
   backdrop-filter: blur(15px) !important;
 }
 
@@ -155,8 +155,10 @@ button:focus {
 }
 
 .logo {
-  height: 1.4em !important;
-  width: 2.5em !important;
+  height: 4em !important;
+  width: 4em !important;
+  border-radius: 5%;
+  border-color: #07e8c7;
 }
 
 .navbar-nav .nav-link {
@@ -257,16 +259,17 @@ button:focus {
 .home-section {
   position: relative;
   z-index: -1;
-  background-image: var(--image-gradient), url(./Assets/Home_bg.jpg);
+  /* background-image: var(--image-gradient), url(./Assets/Home_bg.jpg); */
   background-position: top center;
   background-repeat: no-repeat;
   padding-bottom: 30px !important;
   padding-top: 30px !important;
+  background-color: #030303;
 }
 
 .home-content {
   padding: 9rem 0 2rem !important;
-  color: rgb(20, 8, 243);
+  color: rgb(10, 10, 245);
   text-align: left;
 }
 
@@ -318,6 +321,7 @@ button:focus {
 }
 
 .home-about-section {
+  background-color: #030303;
   position: relative;
   padding-bottom: 70px !important;
   padding-top: 70px !important;
@@ -402,7 +406,7 @@ button:focus {
 /* Footer */
 /* --------- */
 .footer {
-  background-color: rgb(10, 4, 22);
+  background-color: rgb(3, 3, 3);
   bottom: 0 !important;
   padding-top: 10px !important;
   padding-bottom: 8px !important ;
