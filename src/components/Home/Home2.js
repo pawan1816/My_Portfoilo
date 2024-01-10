@@ -42,7 +42,7 @@ function Home2() {
               Till Now I have solved <b className="purple">350+ DSA </b> question on leetcode and <b className="purple">750+ DSA </b>question on geeksforgeeks.
               <br/>
               <br/>
-              <h4>Although I am not the topper not the best But I <b className="purple">NEVER GIVE UP</b> until i achive my goal</h4>
+              <h4>At the Last <b className="purple">NEVER GIVE UP....</b></h4>
             </p>
           </Col>
           <Col md={4} className="myAvtar">
