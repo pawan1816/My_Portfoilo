@@ -6,7 +6,6 @@ import About from "./components/About/About";
 import Projects from "./components/Projects/Projects";
 import Footer from "./components/Footer";
 import CodingProfile from "./components/Coding_Profile/Coding";
-// import Resume from "./components/Resume/ResumeNew";
 import {
   BrowserRouter as Router,
   Route,
@@ -17,7 +16,7 @@ import ScrollToTop from "./components/ScrollToTop";
 import "./style.css";
 import "./App.css";
 import "bootstrap/dist/css/bootstrap.min.css";
-
+import Photos from "./components/Dropdown/Photos";
 function App() {
   const [load, upadateLoad] = useState(true);
 
@@ -40,7 +39,7 @@ function App() {
           <Route path="/project" element={<Projects />} />
           <Route path="/about" element={<About />} />
           <Route path="/coding" element={<CodingProfile />} />
-          {/* <Route path="/resume" element={<Resume />} /> */}
+           <Route path="/photos" element={<Photos />} />
           <Route path="*" element={<Navigate to="/"/>} />
         </Routes>
         <Footer />
