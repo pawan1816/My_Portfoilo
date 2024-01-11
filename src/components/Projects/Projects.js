@@ -7,7 +7,7 @@ import Tempreture from "../../Assets/Projects/TMP.png";
 import Stop_Watch from "../../Assets/Projects/ST.png";
 import Expese_Tracker from "../../Assets/Projects/ET.png";
 import BackGround_changer from "../../Assets/Projects/BGC.png";
-import StickyNavbar from "../../Assets/Projects/STKY.png";
+import Hotel from "../../Assets/Projects/HM.png";
 
 function Projects() {
   return (
@@ -34,12 +34,12 @@ function Projects() {
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={StickyNavbar}
+              imgPath={Hotel}
               isBlog={false}
-              title="Sticky navBar"
-              description="Simple nav Bar which stick to the to whenever we scrollup and makes webpage very unique. HTML, CSS and JAVASCRIPT used to make it and deployed on github"
-              hLink="https://github.com/pawan1816/StickyNavbar"
-              demoLink="https://pawan1816.github.io/StickyNavbar/"
+              title="Hotel Booking website"
+              description="The technology used in this Project is PhP,JavaScript,Html,Css.this website used for traveler and any people can book and check the room. allThough i was able to do only front end part but still this is mine best one."
+              hLink="https://github.com/pawan1816/Hotel-booking-webpage"
+              // demoLink="https://pawan1816.github.io/StickyNavbar/"
             />
           </Col>
 
