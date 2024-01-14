@@ -1,10 +1,11 @@
 {
   "files": {
     "main.css": "/My_Portfoilo/static/css/main.8badfdd0.css",
-    "main.js": "/My_Portfoilo/static/js/main.0fe6d5a2.js",
+    "main.js": "/My_Portfoilo/static/js/main.bd2fbb0b.js",
     "static/media/animation2.gif": "/My_Portfoilo/static/media/animation2.dbf5d0a1077c0e4f472a.gif",
     "static/media/animation.gif": "/My_Portfoilo/static/media/animation.929cef5b0101e0b1038a.gif",
     "static/media/animation3.gif": "/My_Portfoilo/static/media/animation3.62f14320046cf201ce61.gif",
+    "static/media/HM.png": "/My_Portfoilo/static/media/HM.df318f8587e6d246f887.png",
     "static/media/Remini-01-01.jpeg": "/My_Portfoilo/static/media/Remini20220215181036502-01-01.07ee942add61036897fd.jpeg",
     "static/media/Reminijpg": "/My_Portfoilo/static/media/Remini20220215181241996.45f00d5c101026c8616d.jpg",
     "static/media/leetcode.png": "/My_Portfoilo/static/media/leetcode.2baac66179831bfd0dbd.png",
@@ -16,16 +17,15 @@
     "static/media/WC.png": "/My_Portfoilo/static/media/WC.5fdd56ebf5061de079b8.png",
     "static/media/TMP.png": "/My_Portfoilo/static/media/TMP.1ce5434f20c282fd5902.png",
     "static/media/BGC.png": "/My_Portfoilo/static/media/BGC.06f08670214cfb188dec.png",
-    "static/media/STKY.png": "/My_Portfoilo/static/media/STKY.3c27552bc69cd6a00231.png",
     "static/media/HackerRank.png": "/My_Portfoilo/static/media/HackerRank.0c7adb945a464af488b7.png",
     "static/media/InterviewBits.png": "/My_Portfoilo/static/media/InterviewBits.cc3de8bde364488cec21.png",
     "static/media/pre.svg": "/My_Portfoilo/static/media/pre.4410c5baaa673cc131da.svg",
     "index.html": "/My_Portfoilo/index.html",
     "main.8badfdd0.css.map": "/My_Portfoilo/static/css/main.8badfdd0.css.map",
-    "main.0fe6d5a2.js.map": "/My_Portfoilo/static/js/main.0fe6d5a2.js.map"
+    "main.bd2fbb0b.js.map": "/My_Portfoilo/static/js/main.bd2fbb0b.js.map"
   },
   "entrypoints": [
     "static/css/main.8badfdd0.css",
-    "static/js/main.0fe6d5a2.js"
+    "static/js/main.bd2fbb0b.js"
   ]
 }
