@@ -26,7 +26,7 @@ function Home2() {
               <br />
               In LPU, I did learn <b className="purple">Java </b>in 1st year, <b className="purple">DSA</b> in 2nd year.
               I did also taken a course of DSA Self Placed course form geeksforgeeks where i did more then <b className="purple">700+ DSA </b>question on summer term of end of 2nd year.
-              On the same time i did also taken <b className="purple">web development course and training</b> from internshala, where i score more then 70% in the final test. where i learned The tech like<b className="purple">HTML </b> , <b className="purple">CSS</b> , 
+              On the same time i did also taken <b className="purple">web development course and training</b> from internshala, where i score 66% in the final test. where i learned The tech like<b className="purple">HTML </b> , <b className="purple">CSS</b> , 
               <b className="purple">JavaScript </b>,<b className="purple">Bootstrap</b>,<b className="purple">PHP </b> and <b className="purple">React</b>.
               <br />
               <br />
