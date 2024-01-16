@@ -7,8 +7,8 @@ import Tempreture from "../../Assets/Projects/TMP.png";
 import Stop_Watch from "../../Assets/Projects/ST.png";
 import Expese_Tracker from "../../Assets/Projects/ET.png";
 import BackGround_changer from "../../Assets/Projects/BGC.png";
-import Hotel from "../../Assets/Projects/HM.png";
-
+import Hotel from "../../Assets/Projects/HM.jpg";
+import Weather from "../../Assets/Projects/WR.jpg"
 function Projects() {
   return (
     <Container fluid className="project-section">
@@ -34,11 +34,22 @@ function Projects() {
 
           <Col md={4} className="project-card">
             <ProjectCard
+              imgPath={Weather}
+              isBlog={false}
+              title="Weather Report"
+              description="The technology used in this Project is JavaScript,Html,Css,Api.This give the weather report as per location."
+              ghLink="https://github.com/pawan1816/WeatherApp"
+              demoLink="https://pawan1816.github.io/WeatherApp/"
+            />
+          </Col>
+
+          <Col md={4} className="project-card">
+            <ProjectCard
               imgPath={Hotel}
               isBlog={false}
               title="Hotel Booking website"
               description="The technology used in this Project is PhP,JavaScript,Html,Css.this website used for traveler and any people can book and check the room. allThough i was able to do only front end part but still this is mine best one."
-              hLink="https://github.com/pawan1816/Hotel-booking-webpage"
+              ghLink="https://github.com/pawan1816/Hotel-booking-webpage"
               // demoLink="https://pawan1816.github.io/StickyNavbar/"
             />
           </Col>
