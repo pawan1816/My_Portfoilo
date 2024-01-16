@@ -1,16 +1,17 @@
 {
   "files": {
     "main.css": "/My_Portfoilo/static/css/main.8badfdd0.css",
-    "main.js": "/My_Portfoilo/static/js/main.ea4ae40d.js",
+    "main.js": "/My_Portfoilo/static/js/main.e4b368d7.js",
     "static/media/animation2.gif": "/My_Portfoilo/static/media/animation2.dbf5d0a1077c0e4f472a.gif",
     "static/media/animation.gif": "/My_Portfoilo/static/media/animation.929cef5b0101e0b1038a.gif",
     "static/media/animation3.gif": "/My_Portfoilo/static/media/animation3.62f14320046cf201ce61.gif",
-    "static/media/HM.png": "/My_Portfoilo/static/media/HM.df318f8587e6d246f887.png",
     "static/media/Remini-01-01.jpeg": "/My_Portfoilo/static/media/Remini20220215181036502-01-01.07ee942add61036897fd.jpeg",
     "static/media/Reminijpg": "/My_Portfoilo/static/media/Remini20220215181241996.45f00d5c101026c8616d.jpg",
+    "static/media/HM.jpg": "/My_Portfoilo/static/media/HM.72275e545505f4213974.jpg",
     "static/media/leetcode.png": "/My_Portfoilo/static/media/leetcode.2baac66179831bfd0dbd.png",
     "static/media/IMG_20211015_192115_0224.jpg": "/My_Portfoilo/static/media/IMG_20211015_192115_0224.01a9614a4aa9e6533fa4.jpg",
     "static/media/ET.png": "/My_Portfoilo/static/media/ET.2bfab73a593a0750d55e.png",
+    "static/media/WR.jpg": "/My_Portfoilo/static/media/WR.928515386bd220886a1c.jpg",
     "static/media/GeeksForGeeks.png": "/My_Portfoilo/static/media/GeeksForGeeks.cd649eac16d5d6eb89ca.png",
     "static/media/logo.png": "/My_Portfoilo/static/media/logo.3a7663613d822fd8cc2a.png",
     "static/media/ST.png": "/My_Portfoilo/static/media/ST.7cf35e3ad550bb1cbad3.png",
@@ -22,10 +23,10 @@
     "static/media/pre.svg": "/My_Portfoilo/static/media/pre.4410c5baaa673cc131da.svg",
     "index.html": "/My_Portfoilo/index.html",
     "main.8badfdd0.css.map": "/My_Portfoilo/static/css/main.8badfdd0.css.map",
-    "main.ea4ae40d.js.map": "/My_Portfoilo/static/js/main.ea4ae40d.js.map"
+    "main.e4b368d7.js.map": "/My_Portfoilo/static/js/main.e4b368d7.js.map"
   },
   "entrypoints": [
     "static/css/main.8badfdd0.css",
-    "static/js/main.ea4ae40d.js"
+    "static/js/main.e4b368d7.js"
   ]
 }
