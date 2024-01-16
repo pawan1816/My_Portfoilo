@@ -12,7 +12,9 @@ function AboutCard() {
             {/* <br />
             I am currently employed as a software developer at Juspay. */}
             <br />
-            currently studying in <span className="purple">Lovely Professional university</span><br/>
+            Currently studying in <span className="purple">Lovely Professional university Integrated with Upgrade</span><br/>
+            Degree <span className="purple">Btech (CSE)</span><br/>
+            Specialization In <span className="purple">Data Science, Artificial intelligence and Machine Learning</span><br/>
             Final Year student <span className="purple"> 8th semester</span><br/>
             Gmail:- <span className="purple">paikpawan18@gmail.com</span><br/>
             Phone No:- <span className="purple">+91 6203277906</span><br/>
