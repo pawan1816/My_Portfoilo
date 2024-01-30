@@ -9,6 +9,8 @@ import Expese_Tracker from "../../Assets/Projects/ET.png";
 import BackGround_changer from "../../Assets/Projects/BGC.png";
 import Hotel from "../../Assets/Projects/HM.jpg";
 import Weather from "../../Assets/Projects/WR.jpg"
+import password from "../../Assets/Projects/password.png";
+import quiz from "../../Assets/Projects/RPG.png";
 function Projects() {
   return (
     <Container fluid className="project-section">
@@ -56,12 +58,34 @@ function Projects() {
 
           <Col md={4} className="project-card">
             <ProjectCard
+              imgPath={quiz}
+              isBlog={false}
+              title="Quiz Competation"
+              description="Simple quiz competation where various question are there with 4 options."
+              ghLink="https://github.com/pawan1816/Quiz_Competition"
+              demoLink="https://pawan1816.github.io/Quiz_Competition/"              
+            />
+          </Col>
+
+          <Col md={4} className="project-card">
+            <ProjectCard
               imgPath={Stop_Watch}
               isBlog={false}
               title="Stop Watch"
               description="Just tried to copy a stop watch, here javascript and css is the major role for this "
               ghLink="https://github.com/pawan1816/stop_watch"
               demoLink="https://pawan1816.github.io/stop_watch/"              
+            />
+          </Col>
+
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={password}
+              isBlog={false}
+              title="Password Generator"
+              description="ut help to generate a random strong password of 12 digits "
+              ghLink="https://github.com/pawan1816/Random_Password_Generator"
+              demoLink="https://pawan1816.github.io/Random_Password_Generator/"
             />
           </Col>
 
